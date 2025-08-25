@@ -20,10 +20,3 @@ It was developed for the **Stage 2 Case Study Challenge** at Lunim Innovation St
 - Designed to showcase **UX, AI integration, and rapid prototyping skills**
 
 ---
-
-## **Getting Started**
-
-### **1. Clone the repository**
-```bash
-git clone https://github.com/yourusername/multi-platform-ai-assistant.git
-cd multi-platform-ai-assistant
